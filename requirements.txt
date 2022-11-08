@@ -1,0 +1,10 @@
+requests
+httpx
+docxtpl
+pandas
+openpyxl 
+
+# for debugging and tracing
+snoop
+# for cli parsing
+fire
