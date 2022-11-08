@@ -161,3 +161,8 @@ cython_debug/
 
 generated_doc.docx
 sample.xlsx
+
+~*.xlsx
+~*.docx
+
+images/
